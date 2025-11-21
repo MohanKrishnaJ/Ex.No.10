@@ -1,6 +1,6 @@
 # Exno.10-Prompt-Engg
-## Name : Delli Priya L
-## Register no : 212222230029
+## Name : MOHAN KRISHNA J
+## Register no : 2122223220060
 # Aim:
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
